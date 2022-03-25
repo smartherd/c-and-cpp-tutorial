@@ -1,4 +1,4 @@
-## Chapter 2: Code Challenge    
+## Chapter 2: Code Challenge with Solution    
 
 Write a program to print your name and age in the following format in two separate lines: 
 ```
