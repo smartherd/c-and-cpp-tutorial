@@ -1,4 +1,4 @@
-## Chapter 4: User Input     
+## Chapter 4: User Input (Quiz with Solution)     
 
 __Question 1: MCQ__     
 `printf()` and `scanf()` functions are a part of which header file in C? 
