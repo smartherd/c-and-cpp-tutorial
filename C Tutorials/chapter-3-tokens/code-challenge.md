@@ -1,4 +1,4 @@
-## Chapter 3: Code Challenge 
+## Chapter 3: Code Challenge with solution
 
 Write a program to print out:     
 ```As economic reforms picked up the pace, India's GDP grew five-fold to reach US$2.2 trillion in 2015 (as per IMF estimates).```    
