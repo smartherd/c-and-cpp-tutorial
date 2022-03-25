@@ -1,4 +1,4 @@
-## Chapter 2: First C Program   
+## Chapter 2: First C Program (Quiz with Solution)   
 
 __Question 1: Fill in the Blank__  
 
