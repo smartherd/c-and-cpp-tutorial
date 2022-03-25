@@ -1,4 +1,4 @@
-## Chapter 1: Getting Started  
+## Chapter 1: Getting Started (Quiz with Solution) 
 
 __Question 1: MCQ__  
 In which year, C programming language was developed by Dennis Ritchie? 
