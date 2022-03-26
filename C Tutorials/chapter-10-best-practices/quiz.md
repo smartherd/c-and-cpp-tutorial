@@ -18,7 +18,7 @@ Which of the following is an invalid variable name?
 
 ----
 
-__Question 3: MCQ__     
+__Question 3: Match the Column__     
 Match the following examples with the appropriate naming convention. 
 
 | Naming Covention | Variable Name | 
