@@ -43,7 +43,7 @@ Hello
 ```
 ----- 
 
-__Question 2: MCQ__     
+__Question 2: Match the Column__     
 Match the following with their most appropriate description.  
 
 | Column 1 | Column 2 |
