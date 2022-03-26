@@ -1,4 +1,4 @@
-## Chapter 10: Best Practices (Quiz with Solution)     
+## Chapter 9: Best Practices (Quiz with Solution)     
 
 __Question 1: MCQ__     
 Identify the camel case variable name from the given options. 
