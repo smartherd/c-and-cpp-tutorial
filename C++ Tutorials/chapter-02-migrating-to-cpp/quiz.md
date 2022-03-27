@@ -123,3 +123,8 @@ __Question 3:__ (3) Compilation Error
 - The default parameters must be defined from right to left in the function declaration.    
 
 ---- 
+
+__Question 4:__ (2) `34 7`   
+- Plus symbol (+) joins two strings and adds two numbers.    
+
+----
