@@ -1,6 +1,6 @@
 ## Chapter 6: Access Specifiers (Quiz with Solution)     
 
-__Question 1: Match the Column__     
+__Question 1: MCQ__     
 By default, what is the access specifier for the attributes or methods defined in a class? 
 1. `public`
 2. `private`
@@ -9,7 +9,7 @@ By default, what is the access specifier for the attributes or methods defined i
 
 ---- 
  
-__Question 2: MCQ__     
+__Question 2: Match the Column__     
 Match the following with the most appropriate option. 
 
 | Column 1 | Column 2 |
